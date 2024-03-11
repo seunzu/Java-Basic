@@ -35,8 +35,8 @@
  
 ### 파일 규칙
 - week {주차}/{이름}/Day{숫자}/{문제이름}
-  - ex. 코딩 기초 트레이닝/week 1주차/seunzu/Day 1 출력/문자열 출력하기.java
-  - ex. 코딩테스트 입문/week 1주차/seunzu/Day 1 사칙연산/두수의 합.java
+  - ex. 코딩 기초 트레이닝/week 1/seunzu/Day 1 출력/문자열 출력하기.java
+  - ex. 코딩테스트 입문/week 1/seunzu/Day 1 사칙연산/두수의 합.java
   
 
 ## Reference
