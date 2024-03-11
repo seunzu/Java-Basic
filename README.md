@@ -10,7 +10,7 @@
   - [코딩테스트 입문](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc)
 
 ## 기간
-#### 2024.03.11(월) ~
+#### 2024.03.11(월) ~ 04.21(일)
 
 ## 진행 방법
 
