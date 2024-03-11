@@ -1,7 +1,7 @@
 # Java의 정석
 
 ## 목표
-자바 기초 개념 정복
+자바 개념 및 기초 문제 정복
 - 개념 Blog 정리
   - [서승주](https://debug.tistory.com/)
   - [이유나](https://lyn00.tistory.com)
