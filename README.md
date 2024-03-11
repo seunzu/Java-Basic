@@ -12,6 +12,8 @@
 ## 기간
 #### 2024.03.11(월) ~
 
+## 진행 방법
+
 | 주차 | 진행일 | 진행사항 |
 | --- | --- | --- | 
 | 1 주차 | 2024-03-11 ~ 03-17 | Chapter 1 자바를 시작하기 전에 <br/> Chapter 2 변수(Variable) <br/> Chapter 3 연산자(Operator) <br/> Chapter 4 조건문과 반복문 <br/> Chapter 5 배열(Array)|
@@ -20,6 +22,22 @@
 | 4 주차 | 2024-04-01 ~ 04-07 | Chapter 11 컬렉션 프레임웍 <br/> Chapter 12 지네릭스, 열거형, 애너테이션 |
 | 5 주차 | 2024-04-08 ~ 04-14 | Chapter 13 쓰레드(Thread) <br/> Chapter 14 람다와 스트림|
 | 6 주차 | 2024-03-15 ~ 04-21 | Chapter 15 입출력(I/O) <br/> Chapter 16 네트워킹(Networking)|
+
+## 규칙
+- 충돌 방지 -> **커밋하고 푸시하기 전에 항상 pull**
+
+### 챌린저스(인증) 규칙
+- 7일 중 5일 인증(보증금 5천원)
+  - (1번) 블로그 개념 정리 인증
+  - (2번) 프로그래머스 문제 성공 인증
+    - 하루에 최소 2일치_약 4~5개
+  - (3번) 리포지토리에 push 인증
+ 
+### 파일 규칙
+- week {주차}/{이름}/Day{숫자}/{문제이름}
+  - ex. 코딩 기초 트레이닝/week 1주차/seunzu/Day 1 출력/문자열 출력하기.java
+  - ex. 코딩테스트 입문/week 1주차/seunzu/Day 1 사칙연산/두수의 합.java
+  
 
 ## Reference
 [자바의 정석(2020최신)](https://youtube.com/playlist?list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp&si=2D32Ts6GPSIaxdhL)
