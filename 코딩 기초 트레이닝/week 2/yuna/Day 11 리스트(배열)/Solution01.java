@@ -11,7 +11,7 @@ class Solution01 {
                 answer[my_string.charAt(i) - 71]++;
         }
         
-        /* 대문자 idx : 0 - 26, 소문자 idx : 27 - 52 */
+        /* 대문자 idx : 0 - 25, 소문자 idx : 26 - 51 */
         
         return answer;
     }
