@@ -14,14 +14,14 @@
 
 ## 진행 방법
 
-| 주차 | 진행일 | 진행사항 |
-| --- | --- | --- | 
-| 1 주차 | 2024-03-11 ~ 03-17 | Chapter 1 자바를 시작하기 전에 <br/> Chapter 2 변수(Variable) <br/> Chapter 3 연산자(Operator) <br/> Chapter 4 조건문과 반복문 <br/> Chapter 5 배열(Array)|
-| 2 주차 | 2024-03-18 ~ 03-24 | Chapter 6 객체지향 프로그래밍 I <br/> Chapter 7 객체지향 프로그래밍 II|
-| 3 주차 | 2024-03-25 ~ 03-31 | Chapter 8 예외처리(Exception Handling) <br/> Chapter 9 java.lang패키지와 유용한 클래스 <br/> Chapter 10 날짜와 시간 & 형식화|
-| 4 주차 | 2024-04-01 ~ 04-07 | Chapter 11 컬렉션 프레임웍 <br/> Chapter 12 지네릭스, 열거형, 애너테이션 |
-| 5 주차 | 2024-04-08 ~ 04-14 | Chapter 13 쓰레드(Thread) <br/> Chapter 14 람다와 스트림|
-| 6 주차 | 2024-03-15 ~ 04-21 | Chapter 15 입출력(I/O) <br/> Chapter 16 네트워킹(Networking)|
+| 주차 | 진행일 | 진행사항 | 문제(프로그래머스) |
+| --- | --- | --- | --- |
+| 1 주차 | 2024-03-11 ~ 03-17 | Chapter 1 자바를 시작하기 전에 <br/> Chapter 2 변수(Variable) <br/> Chapter 3 연산자(Operator) <br/> Chapter 4 조건문과 반복문 <br/> Chapter 5 배열(Array)| 코딩 기초 트레이닝 |
+| 2 주차 | 2024-03-18 ~ 03-24 | Chapter 6 객체지향 프로그래밍 I <br/> Chapter 7 객체지향 프로그래밍 II| 코딩 기초 트레이닝 |
+| 3 주차 | 2024-03-25 ~ 03-31 | Chapter 8 예외처리(Exception Handling) <br/> Chapter 9 java.lang패키지와 유용한 클래스 <br/> Chapter 10 날짜와 시간 & 형식화| 코딩 기초 트레이닝 |
+| 4 주차 | 2024-04-01 ~ 04-07 | Chapter 11 컬렉션 프레임웍 <br/> Chapter 12 지네릭스, 열거형, 애너테이션 | 코딩테스트 입문 |
+| 5 주차 | 2024-04-08 ~ 04-14 | Chapter 13 쓰레드(Thread) <br/> Chapter 14 람다와 스트림| 코딩테스트 입문 |
+| 6 주차 | 2024-03-15 ~ 04-21 | Chapter 15 입출력(I/O) <br/> Chapter 16 네트워킹(Networking)| 코딩테스트 입문 |
 
 ## 규칙
 > 충돌 방지 -> **커밋하고 푸시하기 전에 항상 pull**
