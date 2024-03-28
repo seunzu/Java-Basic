@@ -1,0 +1,17 @@
+// 조건에 맞게 수열 변환하기3
+
+class Solution03 {
+    public int[] solution(int[] arr, int k) {
+        int[] answer = new int[arr.length];
+        
+        if (k % 2 == 1) {
+            for (int i = 0; i < answer.length; i++)
+                answer[i] = arr[i] * k;
+        } else if (k % 2 == 0) {
+            for (int i = 0; i < answer.length; i++)
+                answer[i] = arr[i] + k;
+        }
+        
+        return answer;
+    }
+}
