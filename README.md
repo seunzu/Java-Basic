@@ -50,12 +50,5 @@
 ex. seunzu : Day1 and Day2
 ```
 
-### 챌린저스(인증) 규칙
-- 7일 중 5일 인증(보증금 5천원)
-  - (1번) 블로그 개념 정리 인증
-  - (2번) 프로그래머스 문제 성공 인증
-    - 하루에 최소 2일치_약 4~5개
-  - (3번) 리포지토리에 push 인증
-
 ## Reference
 [자바의 정석(2020최신)](https://youtube.com/playlist?list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp&si=2D32Ts6GPSIaxdhL)
